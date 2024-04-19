@@ -59,7 +59,7 @@ python main_consola.py
 4. **Ejecución del Ejecutable:**
    - Haz doble clic en el archivo "Ejecutable_Calculadora" para ejecutarlo.
    - Dependiendo de tu sistema operativo, es posible que necesites confirmar que deseas ejecutar el archivo.
-   -Una vez que aparezca ventana de "Ejecutable_Calculadora", en la parte superior derecha de la ventana encontrarás 3 íconos, selecciona el de la mitad, el cuál es un cuadrado sobre otro cuadrado, llamado "Restore Down".
+   - Una vez que aparezca ventana de "Ejecutable_Calculadora", en la parte superior derecha de la ventana encontrarás 3 íconos, selecciona el de la mitad, el cuál es un cuadrado sobre otro cuadrado, llamado "Restore Down".
 
 5. **Interfaz de la Calculadora:**
    - Una vez que se haya ejecutado el archivo, debería abrirse la interfaz de la Calculadora Pensional.
